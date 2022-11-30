@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bit_cup_final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bit_cup_final_jar</output-path>
+    <root id="archive" name="bit_cup_final.jar">
+      <element id="module-output" name="bit_cup_final" />
+    </root>
+  </artifact>
+</component>
